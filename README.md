@@ -1,6 +1,6 @@
 # Single Cycle and Pipline CPU  
 
- Used Logisim simulator to model and test the processor.
+     Used Logisim simulator to model and test the processor.
         
 ## Project Description
 
